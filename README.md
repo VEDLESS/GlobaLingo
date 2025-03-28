@@ -18,12 +18,12 @@ It allows users to translate text between multiple languages with ease and suppo
 - **JavaScript** -  Handling API requests and translation logic
 
 ## 📷 Screenshots on Desktop
-<img src="ss1.png" width="500">
-<img src="ss2.png" width="500">
+<img src="./screenshots/ss1.png" width="500">
+<img src="./screenshots/ss2.png" width="500">
 
 ## 📷 Screenshots on Phone
-<img src="ss4.png" width="500">
-<img src="ss3.png" width="500">
+<img src="./screenshots/ss4.png" width="500">
+<img src="./screenshots/ss3.png" width="500">
 
 ## 📂 How to Use  
 1. Type or paste the text in the input box.
