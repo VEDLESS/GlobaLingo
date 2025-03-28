@@ -1,6 +1,6 @@
 # 🎯 GlobaLingo - A Language Translator  
 
-![GlobaLingo](https://raw.githubusercontent.com/VEDLESS/GlobaLingo/main/image.png)
+![GlobaLingo](./screenshots/image.png)
 
 ## 📌 About the Project
 **GlobaLingo**  is a simple yet powerful language translation web app built using HTML, CSS, and JavaScript.
